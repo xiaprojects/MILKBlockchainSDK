@@ -1,0 +1,2 @@
+# MILKBlockchainSDK
+Our solution is unique in the world: it allows everyone to be part of the network, all connected immediately is our mantra. We are independent of cryptocurrencies: store your data in a blockchain designed for this purpose without dependencies on other business models. It works on all the existing devices in the world: install it on any device accessible to you (it also works on websites!)
